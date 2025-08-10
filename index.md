@@ -5,6 +5,6 @@ Supabaseの練習もかねてテストで作ってるアプリです。
 
 ## リンク集
 
-- [公式ページ](neet-map.com)
+- [公式ページ](https://neet-map.com)
 - [Youtube](https://www.youtube.com/@NEET%E7%9B%B8%E4%BA%92%E6%89%B6%E5%8A%A9%E8%A8%88%E7%94%BB)
 - [X](https://x.com/neet_map)
